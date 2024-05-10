@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/solarsystem/static/css/main.2db24f98.css",
-    "main.js": "/solarsystem/static/js/main.2d8fc1d3.js",
+    "main.css": "/solarsystem/static/css/main.2047163c.css",
+    "main.js": "/solarsystem/static/js/main.720ab41e.js",
+    "static/media/planets.jpg": "/solarsystem/static/media/planets.ab6b0b95378ca5115cea.jpg",
+    "static/media/solarmassa.jpg": "/solarsystem/static/media/solarmassa.3e2db0a9836c25f7b832.jpg",
+    "static/media/allsystem.jpg": "/solarsystem/static/media/allsystem.ae16208318c104ff86ba.jpg",
+    "static/media/solarsystem.jpg": "/solarsystem/static/media/solarsystem.b0b77d054ffe994032c6.jpg",
+    "static/media/biggestplanets.jpg": "/solarsystem/static/media/biggestplanets.18779eb626d19d68eb86.jpg",
     "index.html": "/solarsystem/index.html",
-    "main.2db24f98.css.map": "/solarsystem/static/css/main.2db24f98.css.map",
-    "main.2d8fc1d3.js.map": "/solarsystem/static/js/main.2d8fc1d3.js.map"
+    "main.2047163c.css.map": "/solarsystem/static/css/main.2047163c.css.map",
+    "main.720ab41e.js.map": "/solarsystem/static/js/main.720ab41e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db24f98.css",
-    "static/js/main.2d8fc1d3.js"
+    "static/css/main.2047163c.css",
+    "static/js/main.720ab41e.js"
   ]
 }
