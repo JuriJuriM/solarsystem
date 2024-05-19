@@ -5,6 +5,10 @@ import Allsystem from '../../assets/img/allsystem.jpg'
 import Solarmassa from '../../assets/img/solarmassa.jpg'
 import Planets from '../../assets/img/planets.jpg'
 import Biggestplanets from '../../assets/img/biggestplanets.jpg'
+import Asteroides from '../../assets/img/asteroides.jpg'
+import Haumeja from '../../assets/img/haumeja.jpg'
+import Sannywether from '../../assets/img/sannywether.jpg'
+import Milkyway from '../../assets/img/milkyway.jpg'
 
 const Main = () => {
     return (
@@ -71,6 +75,52 @@ const Main = () => {
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div className='main__row'>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__photo'>
+                                    <img src={Asteroides} alt='Asteroides' />
+                                </div>
+                            </div>
+                        </div>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__text'>В Солнечной системе существуют две области, заполненные малыми телами. Пояс астероидов, находящийся между Марсом и Юпитером, схож по составу с планетами земной группы, поскольку состоит из силикатов и металлов. Крупнейшими объектами пояса астероидов являются карликовая планета Церера и астероиды Паллада, Веста и Гигея.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='main__row'>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__text'>За орбитой Нептуна располагаются транснептуновые объекты, состоящие из замёрзшей воды, аммиака и метана, крупнейшими из которых являются Плутон, Хаумеа, Макемаке, Квавар, Орк, Эрида и Седна. В Солнечной системе существуют и другие популяции малых тел, такие как планетные квазиспутники и троянцы, околоземные астероиды, кентавры, дамоклоиды, а также перемещающиеся по системе кометы, метеороиды и космическая пыль.</div>
+                            </div>
+                        </div>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__photo'>
+                                    <img src={Haumeja} alt='Haumeja' />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='main__row'>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__photo'>
+                                    <img src={Sannywether} alt='Sanny wether' />
+                                </div>
+                            </div>
+                        </div>
+                        <div className='main__column'>
+                            <div className='main__item'>
+                                <div className='main__text'>Солнечный ветер (поток плазмы от Солнца) создаёт пузырь в межзвёздной среде, называемый гелиосферой, который простирается до края рассеянного диска. Гипотетическое облако Оорта, служащее источником долгопериодических комет, может простираться на расстояние примерно в тысячу раз дальше гелиосферы.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='main__text-one'>Солнечная система входит в состав структуры галактики Млечный Путь.</div>
+                    <div className='main__solarsystem'>
+                        <img src={Milkyway} alt='Milky way' />
                     </div>
                 </div>
             </div>
