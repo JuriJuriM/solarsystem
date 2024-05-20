@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/solarsystem/static/css/main.5676bc36.css",
-    "main.js": "/solarsystem/static/js/main.5d8b9cd6.js",
+    "main.css": "/solarsystem/static/css/main.cc2d3b77.css",
+    "main.js": "/solarsystem/static/js/main.29f05690.js",
+    "static/media/mercury.jpg": "/solarsystem/static/media/mercury.d4976d849cba5115faa5.jpg",
     "static/media/saturnone.jpg": "/solarsystem/static/media/saturnone.8934de35c31dfad04d43.jpg",
     "static/media/space.jpg": "/solarsystem/static/media/space.10a7a8ceb8fcc605e752.jpg",
     "static/media/milkyway.jpg": "/solarsystem/static/media/milkyway.545016d5142f5c89ae17.jpg",
     "static/media/orbit.jpg": "/solarsystem/static/media/orbit.c3e85c9f78b0dbe808f7.jpg",
+    "static/media/earth.jpg": "/solarsystem/static/media/earth.93345b0a8518bd8d4873.jpg",
     "static/media/axis.jpg": "/solarsystem/static/media/axis.c4647f1c2b69602d19cb.jpg",
     "static/media/planets.jpg": "/solarsystem/static/media/planets.ab6b0b95378ca5115cea.jpg",
     "static/media/sannywether.jpg": "/solarsystem/static/media/sannywether.86f313edefbd3ee19bcf.jpg",
@@ -15,18 +17,23 @@
     "static/media/structure.jpg": "/solarsystem/static/media/structure.e71e3ad6d1e45a442b29.jpg",
     "static/media/haumeja.jpg": "/solarsystem/static/media/haumeja.5c84ddfc2a0f6fa67b0d.jpg",
     "static/media/tellury.jpg": "/solarsystem/static/media/tellury.9a8c62961b5fc06fe8ff.jpg",
+    "static/media/sun.jpg": "/solarsystem/static/media/sun.f95b9f113624f6ed99a1.jpg",
     "static/media/sunwith.jpg": "/solarsystem/static/media/sunwith.91439a40c5967117404d.jpg",
+    "static/media/jupiter.jpg": "/solarsystem/static/media/jupiter.7b784575f447074b153d.jpg",
     "static/media/rotation.jpg": "/solarsystem/static/media/rotation.5eabe97adbf8d8ffaad5.jpg",
     "static/media/ellipse.jpg": "/solarsystem/static/media/ellipse.897e2332785af9e22ec5.jpg",
     "static/media/solarsystem.jpg": "/solarsystem/static/media/solarsystem.b0b77d054ffe994032c6.jpg",
+    "static/media/saturn3.jpg": "/solarsystem/static/media/saturn3.b30bfe65f1300f33d8dd.jpg",
+    "static/media/venus.jpg": "/solarsystem/static/media/venus.c54eb4d3ac05e3163db2.jpg",
     "static/media/asteroides.jpg": "/solarsystem/static/media/asteroides.a6b79454c00aa25f85cf.jpg",
     "static/media/biggestplanets.jpg": "/solarsystem/static/media/biggestplanets.18779eb626d19d68eb86.jpg",
+    "static/media/mars.jpg": "/solarsystem/static/media/mars.a439bd8761b23801be4e.jpg",
     "index.html": "/solarsystem/index.html",
-    "main.5676bc36.css.map": "/solarsystem/static/css/main.5676bc36.css.map",
-    "main.5d8b9cd6.js.map": "/solarsystem/static/js/main.5d8b9cd6.js.map"
+    "main.cc2d3b77.css.map": "/solarsystem/static/css/main.cc2d3b77.css.map",
+    "main.29f05690.js.map": "/solarsystem/static/js/main.29f05690.js.map"
   },
   "entrypoints": [
-    "static/css/main.5676bc36.css",
-    "static/js/main.5d8b9cd6.js"
+    "static/css/main.cc2d3b77.css",
+    "static/js/main.29f05690.js"
   ]
 }
